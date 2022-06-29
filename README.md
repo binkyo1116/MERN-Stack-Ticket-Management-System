@@ -12,8 +12,3 @@
 * Express.js: Backend framework
 * React.js: Frontend framework
 * Node.js: Runtime environment
-
-### Author
-
-[Vector Le](https://www.vectorle.xyz)
-
